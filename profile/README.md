@@ -21,6 +21,12 @@
   </p>
 </div>
 
+## What we do
+
+  <p align="center">
+    We work on a variety of electronics that power ou rocket, including the launch electronics, avionics to control in flight events and data collection and analysis. Join the organization to look at all of our projects.
+    <br />
+  </p>
 
 <!-- CONTACT -->
 

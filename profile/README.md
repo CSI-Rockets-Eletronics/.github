@@ -26,6 +26,7 @@
   <p align="center">
     We work on a variety of electronics that power ou rocket, including the launch electronics, avionics to control in flight events and data collection and analysis. Join the organization to look at all of our projects.
     <br />
+  <a href="https://docs.google.com/presentation/d/1wcgF8whBDxnMSeLCIp9_cFFjBqyf3P2sEwx-XD8SNAw/edit?usp=sharing"> A slide presentation going over all of our projects</a>
   </p>
 
 <!-- CONTACT -->

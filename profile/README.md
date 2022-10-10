@@ -15,7 +15,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/CSI-Rockets-Eletronics/Home/wiki">Access Wiki</a>
+    <a href="https://csiwiki.me.columbia.edu/">Access Wiki</a>
       | 
     <a href="">Coming Soon</a>
   </p>

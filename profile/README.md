@@ -17,7 +17,7 @@
     <br />
     <a href="https://csiwiki.me.columbia.edu/">Access Wiki</a>
       | 
-    <a href="">Coming Soon</a>
+    <a href="https://csiwiki.me.columbia.edu/en/Missions/Rockets/Electronics/Onboarding">Onboarding Guide</a>
   </p>
 </div>
 

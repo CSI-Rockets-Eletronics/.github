@@ -31,7 +31,13 @@
 
 <!-- CONTACT -->
 
-## Project Leads
+## Project Leads Emeritus
+
+Alex Chen - azc2110@columbia.edu
+Tieqiong Zhang - tz2600@columbia.edu
+Ania Krzyżańska - ark2219@columbia.edu
+
+## Project Leads Emeritus
 
 Victor Barros - vcb2115@columbia.edu
 

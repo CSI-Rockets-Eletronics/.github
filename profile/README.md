@@ -31,7 +31,7 @@
 
 <!-- CONTACT -->
 
-## Project Leads Emeritus
+## Project Leads
 
 Alex Chen - azc2110@columbia.edu
 

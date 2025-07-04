@@ -33,17 +33,21 @@
 
 ## Project Leads
 
-Alex Chen - azc2110@columbia.edu
+Joss Clegg - jc6448@columbia.edu
 
-Tieqiong Zhang - tz2600@columbia.edu
-
-Ania Krzyżańska - ark2219@columbia.edu
+Aruzhan Abil - aa5563@columbia.edu
 
 ## Project Leads Emeritus
 
-Victor Barros - vcb2115@columbia.edu
+-2025 Alex Chen - azc2110@columbia.edu
 
-Theo Usher - tsu2107@columbia.edu
+-2025 Tieqiong Zhang - tz2600@columbia.edu
+
+-2025 Ania Krzyżańska - ark2219@columbia.edu
+
+-2023 Victor Barros - vcb2115@columbia.edu
+
+-2023 Theo Usher - tsu2107@columbia.edu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

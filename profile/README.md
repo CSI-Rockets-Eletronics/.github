@@ -11,7 +11,7 @@
 <h3 align="center">CSI Rockets - Electronics</h3>
 
   <p align="center">
-    Welcome to our organization, to get started please send the link to your github profile to vcb2115@columbia.edu to be added to organization.
+    Welcome to our organization, to get started please send the link to your github profile to aa5563@columbia.edu to be added to organization.
     <br />
     <br />
     <br />
